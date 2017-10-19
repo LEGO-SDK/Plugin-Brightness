@@ -1,0 +1,10 @@
+{
+    "name": "Brightness",
+    "api": "Plugin.Brightness",
+    "request": {
+        "brightness": "float"
+    },
+    "response": {
+        "text": "string"
+    }
+}
